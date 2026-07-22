@@ -1,5 +1,4 @@
-# SKEL: A Shared Knowledge Extraction and Learning Framework for
-Open-Vocabulary Audio-Visual Event Localization
+# SKEL: A Shared Knowledge Extraction and Learning Framework for Open-Vocabulary Audio-Visual Event Localization
 
 ## Abstract
 Open-Vocabulary Audio-Visual Event Localization
