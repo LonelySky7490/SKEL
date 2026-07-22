@@ -1,6 +1,5 @@
 # SKEL: A Shared Knowledge Extraction and Learning Framework for
-
-Chi Liu, Bohan Su, Shenglan Liu
+Open-Vocabulary Audio-Visual Event Localization
 
 ## Abstract
 Open-Vocabulary Audio-Visual Event Localization
